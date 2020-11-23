@@ -1,6 +1,8 @@
 ### Hello World 👋
 
+<img src="https://raw.githubusercontent.com/felipehitomi/felipehitomi/main/images/male-technologist-type-1-2_1f468-1f3fb-200d-1f4bb.png" width="20px"> I’m currently working on Devops Engineering at Captalys
 
+At the moment i'm learning GOLANG and Kubernetes. 
 
 
 <!--
@@ -8,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
