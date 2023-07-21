@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/felipehitomi/felipehitomi/main/images/male-technologist-type-1-2_1f468-1f3fb-200d-1f4bb.png" width="20px"> I’m currently working at DevOps 
 
+Check my personal [blog](https://www.hitomi.com.br)
+
 #### My goals
 My goal is to learn, implement and achieve the best culture on DevOps and DevSecOps, helping to resolve problems.
 
